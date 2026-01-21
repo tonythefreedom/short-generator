@@ -28,13 +28,8 @@ Thumbs.db
 *.log
 /tmp/
 
-# ComfyUI
-comfyui/venv/
-comfyui/models/
-comfyui/output/
-comfyui/input/
-comfyui/user/
-comfyui/.cache/
+# ComfyUI (separate git repo, excluded entirely)
+comfyui/
 
 # Output files
 outputs/*.webp
