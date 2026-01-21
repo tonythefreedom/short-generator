@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+
+# Node.js
+node_modules/
+dist/
+.npm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/tmp/
+
+# ComfyUI
+comfyui/venv/
+comfyui/models/
+comfyui/output/
+comfyui/input/
+comfyui/user/
+comfyui/.cache/
+
+# Output files
+outputs/*.webp
+outputs/*.mp4
+outputs/*.webm
+
+# Environment
+.env
+.env.local
+
+# Cache
+.cache/
+*.cache
